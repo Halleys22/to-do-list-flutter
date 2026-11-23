@@ -2,9 +2,9 @@
 
 Aplicación académica en español para organizar tareas, con Flutter, Material 3 y persistencia local.
 
-## Contexto y ayuda de IA
+## Contexto académico
 
-Este repositorio recoge un trabajo académico de Desarrollo de Aplicaciones Multiplataforma. La implementación inicial se generó con asistencia sustancial de IA a partir del enunciado de clase.
+Este repositorio recoge un trabajo académico de Desarrollo de Aplicaciones Multiplataforma.
 
 ## Funciones implementadas
 
